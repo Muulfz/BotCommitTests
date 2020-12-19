@@ -1,0 +1,9 @@
+{
+  "latestBuildNumber": -1,
+  "hashList": {
+    "altv-server.exe": "d7f6a2826c3b692056b053bb2dc4ff63e52557b8",
+    "data/vehmodels.bin": "bd562c6bcebbaa2df412a2aa50271bbea10da43b",
+    "data/vehmods.bin": "566670f0f8f24f7b525b5f1baefab05a316e859b"
+  },
+  "version": "2.2-rc11"
+}
