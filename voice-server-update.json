@@ -1,6 +1,7 @@
 {
-  "latestBuildNumber": 1300,
+  "latestBuildNumber": -1,
   "hashList": {
-    "altv-voice-server.exe": "8fa365cdf275ae47ead3efc23b1e61f8bfbcd809"
-  }
+    "altv-voice-server.exe": "24a397f99b5720210f474dc081328075a8d17b77"
+  },
+  "version": "2.2-dev7"
 }
