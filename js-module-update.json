@@ -1,0 +1,8 @@
+{
+  "latestBuildNumber": -1,
+  "hashList": {
+    "modules/js-module/js-module.dll": "96193b98316566618fab55319efaaa8b3b4cd21c",
+    "modules/js-module/libnode.dll": "3a4c2a3c4600e39d6216ff61e0665f5795665fc6"
+  },
+  "version": "1.2-rc2"
+}
